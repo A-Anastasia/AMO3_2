@@ -1,0 +1,7 @@
+python3
+update
+py-pip
+py3-numpy
+py3-pandas
+py3-scikit-learn
+py3-flask
